@@ -1,0 +1,8 @@
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\Consoledata\Consoledata\bin\Debug\Consoledata.exe.config
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\Consoledata\Consoledata\bin\Debug\Consoledata.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\Consoledata\Consoledata\bin\Debug\Consoledata.pdb
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\Consoledata\Consoledata\obj\Debug\Consoledata.csproj.AssemblyReference.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\Consoledata\Consoledata\obj\Debug\Consoledata.csproj.SuggestedBindingRedirects.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\Consoledata\Consoledata\obj\Debug\Consoledata.csproj.CoreCompileInputs.cache
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\Consoledata\Consoledata\obj\Debug\Consoledata.exe
+C:\Users\venka\OneDrive\Desktop\simplIlearn\day-2\Consoledata\Consoledata\obj\Debug\Consoledata.pdb
